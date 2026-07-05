@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600" role="img" aria-label="Portrait placeholder for Alex Yordanov">
+  <rect width="480" height="600" rx="36" fill="#f3f7f0" />
+  <circle cx="240" cy="235" r="112" fill="#e4c4a1" />
+  <path d="M132 520c24-116 78-168 108-168 34 0 84 50 108 168" fill="#2d6a4f" />
+  <path d="M160 210c16-72 46-111 80-111 36 0 64 41 80 111" fill="#10211c" />
+  <circle cx="205" cy="235" r="6" fill="#10211c" />
+  <circle cx="275" cy="235" r="6" fill="#10211c" />
+  <path d="M208 286c18 16 46 16 64 0" stroke="#a16345" stroke-width="8" stroke-linecap="round" fill="none" />
+  <path d="M186 180c14-68 37-96 54-96 21 0 40 29 54 96" fill="#10211c" opacity="0.92" />
+</svg>
