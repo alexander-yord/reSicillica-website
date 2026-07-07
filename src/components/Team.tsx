@@ -1,5 +1,7 @@
 import { BRAND } from '../brand';
 
+const founderPortraitUrl = `${import.meta.env.BASE_URL}founder-alex.jpeg`;
+
 export function Team() {
   return (
     <section id="team" className="section" aria-labelledby="team-title">
@@ -12,7 +14,7 @@ export function Team() {
         </p>
       </div>
       <div className="team-grid">
-        <img className="team-image" src="/founder-alex.jpeg" alt="Portrait placeholder for Alex Yordanov" />
+        <img className="team-image" src={founderPortraitUrl} alt="Portrait placeholder for Alex Yordanov" />
         <article className="team-card">
           <h3>Alexander Yordanov</h3>
           <p className="eyebrow">Founder</p>
